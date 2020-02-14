@@ -175,7 +175,7 @@ article h1 {
 }
 
 #sixth-section img {
-    width: 200vh;
+    width: 100%;
 }
 
 #seven-section {
@@ -189,10 +189,11 @@ article h1 {
     padding-left: 200px;
 }
 
-#seven-section p {
+#seven-section a {
     border: 2px solid #fff;
     display: inline;
     padding: 2%;
+    font-family: serif;
 }
 
 footer {
@@ -205,5 +206,4 @@ footer {
 
 footer span {
     color: #6bc1a3;
-    padding-bottom: 15px;
 }
