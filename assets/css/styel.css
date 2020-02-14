@@ -172,7 +172,10 @@ article h1 {
     margin: 0;
     background-repeat: no-repeat;
     background-size: cover;
-    padding-left: 150px;
+}
+
+#sixth-section img {
+    width: 200vh;
 }
 
 #seven-section {
